@@ -1,0 +1,10 @@
+{
+  "name": "REDIVIVUS - Eco Revival & Circular Disposal",
+  "description": "An Apple icon-styled circular economy platform featuring animated garbage particle assembly, Riddance clearance, Market Place exchange, and ShhhPose discreet disposal.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
